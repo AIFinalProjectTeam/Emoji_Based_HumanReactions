@@ -20,18 +20,18 @@ This makes the classification harder because the model have to generalize well a
 
 
 #**Libraries Used:**
-'''
-1.Pandas
-2.Numpy
-3.CV2
-4.datetime
-5.Tensorflow
-6.Tkinter
-7.OS
-8.Seaborn
-9.Matplotlib
 
-'''
+1. Pandas
+2. Numpy
+3. CV2
+4. datetime
+5. Tensorflow
+6. Tkinter
+7. OS
+8. Seaborn
+9. Matplotlib
+
+
 
 #**Steps Used For Deployment**
 
