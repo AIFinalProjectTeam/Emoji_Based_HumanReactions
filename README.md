@@ -5,7 +5,9 @@ This Project detects the human reaction by using the CNN model and create  emoji
 #Dataset Used:FER-2013
 
 https://www.kaggle.com/datasets/msambare/fer2013
-Dataset from https://www.kaggle.com/datasets/msambare/fer2013 .data Image Properties: 48 x 48 pixels (2304 bytes) labels: 0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral The training set consists of 28,709 examples. The public test set consists of 3,589 examples. The training set consists of 28,709 examples and the public test set consists of 3,589 examples.
+
+
+Dataset from https://www.kaggle.com/datasets/msambare/fer2013 contains the data with data Image Properties: 48 x 48 pixels (2304 bytes) labels: 0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral The training set consists of 28,709 examples. The public test set consists of 3,589 examples. The training set consists of 28,709 examples and the public test set consists of 3,589 examples.
 
 #Why FER-2013 DataSet
 
