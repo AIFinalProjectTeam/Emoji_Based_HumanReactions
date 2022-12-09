@@ -20,7 +20,7 @@ This makes the classification harder because the model have to generalize well a
 
 
 #**Libraries Used:**
-
+'''
 1.Pandas
 2.Numpy
 3.CV2
@@ -30,6 +30,8 @@ This makes the classification harder because the model have to generalize well a
 7.OS
 8.Seaborn
 9.Matplotlib
+
+'''
 
 #**Steps Used For Deployment**
 
