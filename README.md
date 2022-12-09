@@ -31,7 +31,8 @@ OS
 Seaborn
 Matplotlib
 
-#**Steps Used for Deployment **
+#**Steps Used For Deployment**
+
 
 1.Created the Deep Learning model using Tensorflow, Keras.
 2.Created sam.py and the developed Webapp using Tkinter.
