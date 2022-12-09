@@ -48,4 +48,12 @@ This makes the classification harder because the model have to generalize well a
 ![WhatsApp Image 2022-12-07 at 9 07 03 PM](https://user-images.githubusercontent.com/120184924/206710011-dd4e461f-53bb-41cf-a408-9a29c3e1de89.jpeg)
 
 
+## Project created by:
+
+1. NaveenKrishna Akkanapally
+2. Sarath Teja Katta 
+3. Devi Neeraja Kommineni 
+
+
+
 
