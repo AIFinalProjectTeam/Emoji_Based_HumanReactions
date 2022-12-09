@@ -2,14 +2,14 @@
 
 This Project detects the human reaction by using the CNN model and create  emoji Happy,Sad,Netural and Fearful
 
-#Dataset Used:FER-2013
-
+#**Dataset Used:FER-2013 
+**
 https://www.kaggle.com/datasets/msambare/fer2013
 
 
 Dataset from https://www.kaggle.com/datasets/msambare/fer2013 contains the data with data Image Properties: 48 x 48 pixels (2304 bytes) labels: 0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral The training set consists of 28,709 examples. The public test set consists of 3,589 examples. The training set consists of 28,709 examples and the public test set consists of 3,589 examples.
 
-#Why FER-2013 DataSet
+#**Why FER-2013 DataSet**
 
 Fer2013 is a challenging dataset. The images are not aligned and some of them are uncorrectly labeled as we can see from the following images. Moreover, some samples do not contain faces.
 
@@ -19,7 +19,7 @@ Fer2013 is a challenging dataset. The images are not aligned and some of them ar
 This makes the classification harder because the model have to generalize well and be robust to incorrect data. The best accuracy results obtained on this dataset, as far as I know, is 93.6% described in this paper: [Facial Expression Recognition using Convolutional Neural Networks: State of the Art, Pramerdorfer & al. 2016]
 
 
-#Libraries Used:
+#**Libraries Used:**
 
 Pandas
 Numpy
@@ -31,13 +31,13 @@ OS
 Seaborn
 Matplotlib
 
-#Steps Used for Deployment 
+#**Steps Used for Deployment **
 
 1.Created the Deep Learning model using Tensorflow, Keras.
 2.Created sam.py and the developed Webapp using Tkinter.
 3.When the program is executed it opens the webcam and detects the human face and gives the output as emoji
 
-#Results
+#**Results**
 
 ![WhatsApp Image 2022-12-07 at 9 14 12 PM](https://user-images.githubusercontent.com/120184924/206709998-829f5f1a-63b6-4647-b0c0-1cbb5843bd67.jpeg)
 ![WhatsApp Image 2022-12-07 at 9 11 37 PM](https://user-images.githubusercontent.com/120184924/206710004-e7ce38e6-74a4-4796-bf1a-475a492c10d0.jpeg)
