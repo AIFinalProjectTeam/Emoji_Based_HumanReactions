@@ -15,10 +15,7 @@ Dataset from https://www.kaggle.com/datasets/msambare/fer2013 contains the data 
 
 Fer2013 is a challenging dataset. The images are not aligned and some of them are uncorrectly labeled as we can see from the following images. Moreover, some samples do not contain faces.
 
-![image](https://user-images.githubusercontent.com/120184924/206710424-133df609-4322-4b52-8071-33efc6b7cec3.png)
-![image](https://user-images.githubusercontent.com/120184924/206710536-f4b1bb13-24e6-4324-b851-de5dada62f4e.png)
- 
-![image](https://user-images.githubusercontent.com/120184924/206932932-304c7cb8-0903-478a-a61e-90b93c9474ea.png)
+  ![image](https://user-images.githubusercontent.com/120184924/206932932-304c7cb8-0903-478a-a61e-90b93c9474ea.png)
 
 
 This makes the classification harder because the model have to generalize well and be robust to incorrect data. The best accuracy results obtained on this dataset, as far as I know, is 93.6% described in this paper: [Facial Expression Recognition using Convolutional Neural Networks: State of the Art, Pramerdorfer & al. 2016]
