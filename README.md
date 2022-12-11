@@ -35,13 +35,11 @@ This makes the classification harder because the model have to generalize well a
 
 Anaconda and jupyter notebook is a better way to install dependencies 
 
-  [Kaggle FER-2013 Data](https://www.kaggle.com/datasets/msambare/fer2013)
-
-
 
 ## 4.2 Download the data:
 
 1. Download the Face Landmarks model with the Fer2013 dataset.
+       [Kaggle FER-2013 Data for the facial datasets ](https://www.kaggle.com/datasets/msambare/fer2013)
 
 1.Created the Deep Learning model using Tensorflow, Keras.
 2.Created sam.py and the developed Webapp using Tkinter.
