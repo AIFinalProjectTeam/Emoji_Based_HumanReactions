@@ -4,7 +4,7 @@
 
 This Project detects the human reaction by using the CNN model and create  emoji Happy,Sad,Netural,Fearful,Disgust and Angry 
 
-## Dataset Used:
+## 2. Dataset Used:
 
 https://www.kaggle.com/datasets/msambare/fer2013
 
