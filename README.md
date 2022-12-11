@@ -1,6 +1,8 @@
 # Emoji_Based_HumanReactions
 
-This Project detects the human reaction by using the CNN model and create  emoji Happy,Sad,Netural and Fearful
+## 1. Motivation
+
+This Project detects the human reaction by using the CNN model and create  emoji Happy,Sad,Netural,Fearful,Disgust and Angry 
 
 ## Dataset Used:
 
