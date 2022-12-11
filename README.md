@@ -50,8 +50,8 @@ Anaconda and jupyter notebook is a better way to install dependencies
 ## 4.4 Optimize Hyperparameters 
 
 1. optimize the dependednt parameters 
-2.Created sam.py and the developed Webapp using Tkinter.
-3.When the program is executed it opens the webcam and detects the human face and gives the output as emoji
+2. Created sam.py and the developed Webapp using Tkinter.
+3. When the program is executed it opens the webcam and detects the human face and gives the output as emoji
 
 ## 4.5 Results
 
