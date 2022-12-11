@@ -40,6 +40,8 @@ Anaconda and jupyter notebook is a better way to install dependencies
 
 1. Download the Face Landmarks model with the Fer2013 dataset.
      - [Kaggle FER-2013 Data for the facial datasets ](https://www.kaggle.com/datasets/msambare/fer2013)
+ 
+2.Unzip the downloaded files 
 
 1.Created the Deep Learning model using Tensorflow, Keras.
 2.Created sam.py and the developed Webapp using Tkinter.
