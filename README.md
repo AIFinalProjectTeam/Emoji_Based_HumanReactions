@@ -20,8 +20,8 @@ Fer2013 is a challenging dataset. The images are not aligned and some of them ar
 
 This makes the classification harder because the model have to generalize well and be robust to incorrect data. The best accuracy results obtained on this dataset, as far as I know, is 93.6% described in this paper: [Facial Expression Recognition using Convolutional Neural Networks: State of the Art, Pramerdorfer & al. 2016]
 
-
-## 4.Libraries Used:
+### 4. How to Use ?
+## 4.1 Install Dependencies:
 
 1. Pandas
 2. Numpy
